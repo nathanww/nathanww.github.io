@@ -71,20 +71,20 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # nathanww
+github_username:  nathanww
 gitlab_username: # your GitLab user name
-twitter_username: # brain_juices
-mastodon_username: # nathanww@mstdn.science
-linkedin_username: # nathanww
-telegram_username: # your Telegram user name
+twitter_username:  brain_juices
+mastodon_username:  nathanww@mstdn.science
+linkedin_username:  nathanww
+telegram_username:  your Telegram user name
 scholar_userid: # QYvRQ8kAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
-quora_username: # Nathan-Whitmore
+quora_username:  Nathan-Whitmore
 publons_id: # your ID on Publons
-osf_id: # osf.io/adm56
+osf_id:  osf.io/adm56
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -104,8 +104,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
+If you want to get in toyuch please send me an email!
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
