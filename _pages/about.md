@@ -22,9 +22,13 @@ I'm a neuroscientist and technologist working on technology to improve human cog
 Currently I'm working on:
 
 [Improving sleep quality and health](https://www.media.mit.edu/projects/sleep-entrainment/overview/) by using mobile/wearable devices to stimulate slow waves in deep sleep
+
 [Improving memory](https://www.media.mit.edu/projects/tap-to-remember/overview/) by [implementing Targeted Memory Reactivation (TMR)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5798898/) on wearable devices.
+
 Using TMR to weaken the impact of distressing memories.
-Closed loop sleep stimulation to help people have more lucid dreams.
+
+[Closed loop sleep stimulation to help people have more lucid dreams.](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00059-2)
+
 [Improving cognition with patterned sensory stimulation](https://www.media.mit.edu/projects/programming-body-rhythms/overview/)
 
 
